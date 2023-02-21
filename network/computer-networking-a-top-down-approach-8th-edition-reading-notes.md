@@ -18,6 +18,7 @@ current page: 16
 - what is the internet?
 1. hardware aspect: coaxial cable, copper wire, optical fiber, radio spectrum, router and switch.
 2. software aspect: packets switches, protocol
+3. entirely different angle: an infrastructure that provides services to applications.
 # Notes for english
 ### Usage of phrases and words
 - as well: I need to understand not only today's networks, but tomorrow's **as well**
@@ -26,6 +27,8 @@ current page: 16
 - so-called: **so-called** servers that store and transmit information such as Web pages and e-mail messages.
 - Given that/the: **Given that** the Internet is so large and complex, is there any hope of understanding how it works?
 - jargon: special words and phrases that used by partical groups of people, especially in their work.
+- go about: How might you **go about** transforming this idea into an actual Internet application?
+- draw upon: let's draw upon a simple analogy
 ### Abbreviations that need to know
 - ISP: Internet Service Provider
 - DSL: Digital Subscriber Line
